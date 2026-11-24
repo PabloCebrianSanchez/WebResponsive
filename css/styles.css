@@ -116,7 +116,7 @@ label {
     flex-direction: column;
     background-image: 
     linear-gradient(to top, #181818 12% , #0000 60%), 
-    url('/img/bg_hor_inicio.png');
+    url('../img/bg_hor_inicio.png');
     background-color: #181818;
     background-position: 51% -300%;
     background-size: 300%;
@@ -229,14 +229,14 @@ label {
     position: relative;
 }
 .torneo__img1 {
-    background-image: url(/img/futsal_img.png);
+    background-image: url(../img/futsal_img.png);
 }
 .torneo__img2 {
-    background-image: url(/img/baloncesto_img.png);
+    background-image: url(../img/baloncesto_img.png);
     background-position: 50% 50%;
 }
 .torneo__img3 {
-    background-image: url(/img/volleyball_img.png);
+    background-image: url(../img/volleyball_img.png);
 }
 
 .torneo--turno {
@@ -309,7 +309,7 @@ label {
 }
 
 .seccion2--img {
-    background-image: url(/img/premios.png);
+    background-image: url(../img/premios.png);
     margin: auto;
     margin-bottom: 10px;
     width: 95%;
@@ -731,17 +731,17 @@ footer {
 }
 
 .premio--img1 {
-    background: url(/img/1er_puesto.jpg);
+    background: url(../img/1er_puesto.jpg);
     background-position: center;
     background-size: cover;
 }
 .premio--img2 {
-    background: url(/img/2er_puesto.jpg);
+    background: url(../img/2er_puesto.jpg);
     background-position: center;
     background-size: cover;
 }
 .premio--img3 {
-    background: url(/img/3er_puesto.png);
+    background: url(../img/3er_puesto.png);
     background-position: center;
     background-size: cover;
 }
