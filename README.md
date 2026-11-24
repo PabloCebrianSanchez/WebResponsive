@@ -1,14 +1,14 @@
 # WebResponsive
 
 
-# [Torneo de instituto]
+# Torneos de instituto
 
-[Sitio web multipágina totalmente responsive desarrollado exclusivamente con HTML5 semántico y CSS3 puro.]
+Sitio web multipágina totalmente responsive desarrollado exclusivamente con HTML5 semántico y CSS3 puro.
 
 ## ✨ Características principales
 
-* **Diseño 100% Responsive:** Adaptado a dispositivos móviles, tablets y pantallas de escritorio mediante *Media Queries*, *Flexbox* y *CSS Grid*.
-* **Arquitectura Multipágina:** Navegación fluida e intuitiva entre distintas secciones (`Inicio`, `Servicios`, `Nosotros`, `Contacto`, etc.).
+* **Diseño 100% Responsive:** Adaptado a dispositivos móviles, tablets y pantallas de escritorio mediante *Media Queries* y *Flexbox*.
+* **Arquitectura Multipágina:** Navegación fluida e intuitiva entre distintas secciones (`Inicio`, `Inscripcion`, `Premios`, `Torneos`, etc.).
 * **Código limpio y sin dependencias:** Desarrollado únicamente con tecnologías web estándar, sin librerías externas, frameworks ni JavaScript.
 * **HTML5 Semántico:** Estructura optimizada para accesibilidad y posicionamiento básico (SEO).
 
